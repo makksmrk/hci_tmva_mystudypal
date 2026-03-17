@@ -1,4 +1,4 @@
-# HCI - Gruppe 14 - MyStudyPal
+# HCI - MyStudyPal
 
 ## Anmerkung zur Dokumentation
 
