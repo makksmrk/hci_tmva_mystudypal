@@ -73,7 +73,7 @@ Die Webseite wird in Browser angezeigt.
 
 ## Screenshots
 
-![HomePage](screenshots/Homepage.png)
+![HomePage](screenshots/HomePage.png)
 ![Calendar](screenshots/Calendar.png)
 ![Achievements](screenshots/Achievements.png)
 ![Settings](screenshots/Settings.png)
