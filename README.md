@@ -71,6 +71,13 @@ Die Webseite wird in Browser angezeigt.
   In TodoPage, fügen Sie 2 oder mehrere Todos hinzu. Nachdem Sie die erste To-Do-Kästchen abgehakt hatte, wird das Achievement 'Erster Schritt' in AchievementPage als 'achieved' angezeigt. Wenn Sie alle To-Do-Kästchen abgehakt hatte, wird das Achievement 'Plan-Ausführer' in AchievementPage als 'achieved' angezeigt.   
   Falls Sie wieder testen wollen, geben Sie bitte 'localStorage.clear();' in Ihrem Browser Consoler ein.
 
+## Screenshots
+
+![HomePage](screenshots/Homepage.png)
+![Calendar](screenshots/Calendar.png)
+![Achievements](screenshots/Achievements.png)
+![Settings](screenshots/Settings.png)
+
 ## Release Notes
 
 | Datum      | Beschreibung                                                                                                                 |
